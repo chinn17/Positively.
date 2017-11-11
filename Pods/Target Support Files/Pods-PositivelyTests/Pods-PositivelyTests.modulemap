@@ -1,0 +1,6 @@
+framework module Pods_PositivelyTests {
+  umbrella header "Pods-PositivelyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
